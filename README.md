@@ -5,6 +5,6 @@ We used 3 datasets: dair-emotions, go-emotions which we used as a training datas
 
 Datasets: https://huggingface.co/datasets/dair-ai/emotion | https://huggingface.co/datasets/google-research-datasets/go_emotions
 
-Tools: Simple Transformers [Roberta], [Emotion English DistilRoBERTa-base models](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base), PyTorch, Cuda, GPT 4.0(artifical tweet generation)
+Tools: Simple Transformers [Roberta] | [Emotion English DistilRoBERTa-base models](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) | PyTorch | Cuda | GPT 4.0(artifical tweet generation)
 
 Google Colab Link: https://colab.research.google.com/drive/1AI5zezgG4ubZHeIOmylhSJHR10A0jUGi?usp=sharing
